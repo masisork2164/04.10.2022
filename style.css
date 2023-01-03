@@ -1,0 +1,72 @@
+.klasa_1
+{
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding: 30px;
+    background-repeat: repeat;
+    background-image: url(../grafiki/tlo_1.jpg);
+}
+.klasa_2
+{
+    background-color: lime;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 50px;
+    padding-left: 50px;
+    background-repeat:repeat-x;
+    background-image: url(../grafiki/tlo_1.jpg);
+}
+.klasa_3
+{
+    background-color: lime;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    padding-right: 50px;
+    padding-left: 120px;
+    background-repeat:repeat-y;
+    background-image: url(../grafiki/tlo_1.jpg);
+}
+.klasa_4
+{
+    background-color: lime;
+    margin: 100px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    padding-right: 40px;
+    padding-left: 120px;
+    background-repeat:no-repeat;
+    background-image: url(../grafiki/tlo_1.jpg);
+}
+.klasa_5
+{
+    background-color: lime;
+    background-position:right top;
+    margin: 100px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    padding-right: 120px;
+    padding-left: 40px;
+    text-align: right;
+    background-repeat:no-repeat;
+    background-image: url(../grafiki/tlo_1.jpg);
+}
+.klasa_6
+{
+    background-color: lime;
+    background-attachment: fixed;
+    background-position:5%;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 10px;
+    margin-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+    padding-left: 140px;
+    background-repeat:repeat-x;
+    background-image: url(../grafiki/tlo_1.jpg);
+}
